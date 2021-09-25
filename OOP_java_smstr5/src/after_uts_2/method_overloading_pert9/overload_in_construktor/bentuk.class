@@ -1,0 +1,8 @@
+class bentuk {
+    int[]koordinat;
+    bentuk(int x1, int x2) {
+        this.koordinat[0]=x1;
+        this.koordinat[1]=x2;
+    }
+    bentuk(int x1, int x2, )
+}
